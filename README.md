@@ -61,3 +61,5 @@ Tuesday, monday and wednesdays have relatively higher number of orders.
 Recommendations :
 
 from the distribution and statistical analysis we can observe the average time to complete
+
+<img src="Self_Photo.jpg" alt="Repo banner" width="100%">
