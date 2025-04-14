@@ -1,4 +1,3 @@
-<img src="Self_Photo.jpg" alt="Repo banner" width="100%">
 
 Insights and Recommendations :
 
