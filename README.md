@@ -1,3 +1,5 @@
+<img src="Self_Photo.jpg" alt="Repo banner" width="100%">
+
 Insights and Recommendations :
 
 We have 99,441 customers of data available.
@@ -62,4 +64,4 @@ Recommendations :
 
 from the distribution and statistical analysis we can observe the average time to complete
 
-<img src="Self_Photo.jpg" alt="Repo banner" width="100%">
+
